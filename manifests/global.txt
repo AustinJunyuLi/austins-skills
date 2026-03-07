@@ -1,0 +1,25 @@
+# Active portable global skills for Austin's skills.
+# .system skills are intentionally excluded.
+
+citation-management
+code-review
+compile-latex
+data-analysis-r
+deepthink-review
+documents-and-conversion
+econ-theory-paper-numerics
+empirical-analysis-python
+finance-data
+futures-research-pipeline
+geospatial-analysis
+gptpro-review
+ml-systems
+research-discovery
+research-graphics
+research-ideation
+research-review
+research-writing
+slide-review
+slides-and-teaching
+time-series-analysis
+visualization

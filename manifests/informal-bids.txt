@@ -1,0 +1,5 @@
+# Manifest name: informal-bids. Source repo: informal_bids.
+# .system skills are intentionally excluded.
+
+blackjax-mc-suite
+informal-bids-canonical-data
